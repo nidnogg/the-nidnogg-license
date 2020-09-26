@@ -1,0 +1,1 @@
+# the-nidnogg-license

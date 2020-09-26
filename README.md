@@ -9,7 +9,6 @@ with the following links:
 
 * https://www.patreon.com/nidnogg
 * https://ko-fi.com/nidnogg
-* https://twitter.com/nidnogg_
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
